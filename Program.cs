@@ -37,6 +37,11 @@ namespace play_with_struct_vs_class_passing_to_function
         static void MakeHimFail(Lecturer lecturer)
         {
             lecturer.IsPassed=false;
+
+            lecturer = new Lecturer();
+            lecturer.Name="Dummy Varun Naidu";
+            lecturer.Id=1000;
+            lecturer.IsPassed=true;
         }
         static void Main(string[] args)
         {
@@ -65,8 +70,8 @@ namespace play_with_struct_vs_class_passing_to_function
             // Result          : Failed // Property changed as it's reference is passed
 
 
-            // Id              : 2
-            // Name            : Varun Naidu
+            // Id              : 2 // Id didn't changes as it will create two different lecturer objects pointing to two different locations (In short no ref keyword)
+            // Name            : Varun Naidu // Same case with this
             // Result          : Failed // Property changed as it's reference type
 
         }
