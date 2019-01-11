@@ -30,7 +30,7 @@ namespace play_with_struct_vs_class_passing_to_function
                 return $"Id              : {this.Id}\nName            : {this.Name}\nResult          : {result}";
             }
         }
-        static void MakeHimFail(Student student)
+        static void MakeHimFail(ref Student student)
         {
             student.IsPassed=false;
         }
@@ -50,7 +50,7 @@ namespace play_with_struct_vs_class_passing_to_function
             lecturer.Name="Varun Naidu";
             lecturer.IsPassed=true;
 
-            MakeHimFail(student);
+            MakeHimFail(ref student);
             MakeHimFail(lecturer);
 
             P(student);
@@ -62,7 +62,7 @@ namespace play_with_struct_vs_class_passing_to_function
             // $ dotnet run
             // Id              : 1
             // Name            : Deepika Mohan
-            // Result          : Passed // Property didn't changed as it's value type
+            // Result          : Failed // Property changed as it's reference is passed
 
 
             // Id              : 2
