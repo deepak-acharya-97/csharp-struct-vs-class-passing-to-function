@@ -1,0 +1,11 @@
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\bin\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.deps.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\bin\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.runtimeconfig.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\bin\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.runtimeconfig.dev.json
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\bin\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\bin\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.pdb
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\obj\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.csprojAssemblyReference.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\obj\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.csproj.CoreCompileInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\obj\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.AssemblyInfoInputs.cache
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\obj\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.AssemblyInfo.cs
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\obj\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.dll
+C:\Users\bl035e\Documents\playground\csharp\play_with_struct-vs-class-passing-to-function\obj\Debug\netcoreapp2.1\play_with_struct-vs-class-passing-to-function.pdb
